@@ -1,4 +1,4 @@
 # ideal-guacamole
 
 First commit. 
-Hello there
+Hello there.
